@@ -228,6 +228,7 @@ function toppTre(resultater) {
 // Skriv en kort egenvurdering av arbeidet ditt. Skriv rett etter kolonet.
 // Dette fikk jeg godt til:
 // Dette var vanskelig:
+<<<<<<< Updated upstream
 // Dette vil jeg øve mer på:
 
 
@@ -239,3 +240,6 @@ function toppTre(resultater) {
 
 
 
+=======
+// Dette vil jeg øve mer på:
+>>>>>>> Stashed changes
