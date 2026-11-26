@@ -137,13 +137,6 @@ function velgFraksjon(alliance, horde, valg) {
   // LØSNING
 }
 
-// Oppgave 14: Hvor mange runder fikk laget MER enn grensen?
-//     antallOver(runder, 100) -> 3
-//     Tips: samme oppskrift som antallUnderNull() i oppgave 6.
-function antallOver(poeng, grense) {
-  // LØSNING
-}
-
 
 // #####################################################
 // DEL 3: BREILAN (oppgave 15–17)
@@ -228,18 +221,3 @@ function toppTre(resultater) {
 // Skriv en kort egenvurdering av arbeidet ditt. Skriv rett etter kolonet.
 // Dette fikk jeg godt til:
 // Dette var vanskelig:
-<<<<<<< Updated upstream
-// Dette vil jeg øve mer på:
-
-
-
-
-
-
-
-
-
-
-=======
-// Dette vil jeg øve mer på:
->>>>>>> Stashed changes
